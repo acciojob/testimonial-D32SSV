@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+
+* {
+	backgroound-color : #f5f5f5
+}
+
+h1, .testi {
+	margin: 10px;
+}
+
+.testi {
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+	border-style: ridge;
+}
+
+.babag {
+	margin-top: 10px;
+}
